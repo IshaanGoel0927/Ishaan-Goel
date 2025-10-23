@@ -4,7 +4,7 @@
 Name - Ishaan Goel  
 Age - 18 Years  
 
-## Carrer related information:-
+## Career related information:-
 Institute- Birla Institute of Technology and Science Pilani, Pilani campus  
 Branch- Master of Science in Semiconductors and Nanoscience  
 
